@@ -1,0 +1,53 @@
+rm: cannot remove 'data': No such file or directory
+Tue Apr 26 15:17:46 GMT 2022 running microbenchmarks on 1 cores
+Tue Apr 26 15:18:26 GMT 2022 running micro-benchmark on one core with 1 threads (pinned version)
+Tue Apr 26 15:19:06 GMT 2022 running microbenchmarks on 2 cores
+Tue Apr 26 15:19:46 GMT 2022 running micro-benchmark on one core with 2 threads (pinned version)
+Tue Apr 26 15:20:25 GMT 2022 running microbenchmarks on 3 cores
+Tue Apr 26 15:21:04 GMT 2022 running micro-benchmark on one core with 3 threads (pinned version)
+Tue Apr 26 15:21:43 GMT 2022 running microbenchmarks on 4 cores
+Tue Apr 26 15:22:22 GMT 2022 running micro-benchmark on one core with 4 threads (pinned version)
+Tue Apr 26 15:23:01 GMT 2022 running microbenchmarks on 5 cores
+Tue Apr 26 15:23:40 GMT 2022 running micro-benchmark on one core with 5 threads (pinned version)
+Tue Apr 26 15:24:19 GMT 2022 running microbenchmarks on 6 cores
+Tue Apr 26 15:24:58 GMT 2022 running micro-benchmark on one core with 6 threads (pinned version)
+Tue Apr 26 15:25:37 GMT 2022 running microbenchmarks on 7 cores
+Tue Apr 26 15:26:16 GMT 2022 running micro-benchmark on one core with 7 threads (pinned version)
+Tue Apr 26 15:26:55 GMT 2022 running microbenchmarks on 8 cores
+Tue Apr 26 15:27:33 GMT 2022 running micro-benchmark on one core with 8 threads (pinned version)
+Tue Apr 26 15:28:12 GMT 2022 running microbenchmarks on 9 cores
+Tue Apr 26 15:28:51 GMT 2022 running micro-benchmark on one core with 9 threads (pinned version)
+Tue Apr 26 15:29:30 GMT 2022 running microbenchmarks on 10 cores
+Tue Apr 26 15:30:08 GMT 2022 running micro-benchmark on one core with 10 threads (pinned version)
+Tue Apr 26 15:30:47 GMT 2022 running microbenchmarks on 20 cores
+Tue Apr 26 15:31:26 GMT 2022 running micro-benchmark on one core with 20 threads (pinned version)
+Tue Apr 26 15:32:05 GMT 2022 running microbenchmarks on 30 cores
+Tue Apr 26 15:32:44 GMT 2022 running micro-benchmark on one core with 30 threads (pinned version)
+Tue Apr 26 15:33:23 GMT 2022 running microbenchmarks on 40 cores
+Tue Apr 26 15:34:02 GMT 2022 running micro-benchmark on one core with 40 threads (pinned version)
+Tue Apr 26 15:34:42 GMT 2022 running microbenchmarks on 50 cores
+Tue Apr 26 15:35:21 GMT 2022 running micro-benchmark on one core with 50 threads (pinned version)
+Tue Apr 26 15:36:01 GMT 2022 running microbenchmarks on 60 cores
+Tue Apr 26 15:36:40 GMT 2022 running micro-benchmark on one core with 60 threads (pinned version)
+Tue Apr 26 15:37:20 GMT 2022 running microbenchmarks on 70 cores
+Tue Apr 26 15:37:59 GMT 2022 running micro-benchmark on one core with 70 threads (pinned version)
+Tue Apr 26 15:38:39 GMT 2022 running microbenchmarks on 80 cores
+Tue Apr 26 15:39:18 GMT 2022 running micro-benchmark on one core with 80 threads (pinned version)
+Tue Apr 26 15:39:59 GMT 2022 running microbenchmarks on 90 cores
+Tue Apr 26 15:40:38 GMT 2022 running micro-benchmark on one core with 90 threads (pinned version)
+Tue Apr 26 15:41:19 GMT 2022 running microbenchmarks on 100 cores
+Tue Apr 26 15:41:57 GMT 2022 running micro-benchmark on one core with 100 threads (pinned version)
+Tue Apr 26 15:42:39 GMT 2022 running microbenchmarks on 110 cores
+Tue Apr 26 15:43:16 GMT 2022 running micro-benchmark on one core with 110 threads (pinned version)
+Tue Apr 26 15:43:58 GMT 2022 running microbenchmarks on 120 cores
+Tue Apr 26 15:44:37 GMT 2022 running micro-benchmark on one core with 120 threads (pinned version)
+Tue Apr 26 15:45:18 GMT 2022 running microbenchmarks on 130 cores
+Tue Apr 26 15:45:55 GMT 2022 running micro-benchmark on one core with 130 threads (pinned version)
+Tue Apr 26 15:46:38 GMT 2022 running microbenchmarks on 140 cores
+Tue Apr 26 15:47:14 GMT 2022 running micro-benchmark on one core with 140 threads (pinned version)
+Tue Apr 26 15:47:56 GMT 2022 running microbenchmarks on 150 cores
+Tue Apr 26 15:48:30 GMT 2022 running micro-benchmark on one core with 150 threads (pinned version)
+Tue Apr 26 15:49:13 GMT 2022 running microbenchmarks on 159 cores
+Tue Apr 26 15:49:47 GMT 2022 running micro-benchmark on one core with 159 threads (pinned version)
+Tue Apr 26 15:50:30 GMT 2022 running microbenchmarks on 160 cores
+Tue Apr 26 15:51:06 GMT 2022 running micro-benchmark on one core with 160 threads (pinned version)

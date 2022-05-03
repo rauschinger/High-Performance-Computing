@@ -1,0 +1,18 @@
+running ASIMD microbenchmarks
+peak_asimd_fmadd_sp
+  repetitions: 27463874
+  duration: 9.63367 seconds
+  GFLOPS: 11.9734
+peak_asimd_fmadd_dp
+  repetitions: 27473302
+  duration: 9.63607 seconds
+  GFLOPS: 11.9746
+peak_asimd_fmla_sp
+  repetitions: 27459916
+  duration: 9.63118 seconds
+  GFLOPS: 47.8993
+peak_asimd_fmla_dp
+  repetitions: 27455962
+  duration: 9.63078 seconds
+  GFLOPS: 23.9472
+finished ASIMD microbenchmarks
