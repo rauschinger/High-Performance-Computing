@@ -106,7 +106,7 @@ latency_dst_asimd_fmul_sp
   duration: 4.76566 seconds  
   GFLOPS: 3706.79  
 
-Die GFLOPS vom Kernel latency_dst_asimd_fmla_sp sind etwas mehr als 2 Mal so hoch wie bei dem Kernel latency_src_asimd_fmla_sp (1897.64 GFLOPS und 922.957 GFLOPS). Damit liegen die GFLOPS aber immer noch deutlich unter den GFLOPS vom Kernel peak_asimd_fmla_sp, wo wir 30 unabhägige SP ASIMD-FMA Operationen haben.
+Die GFLOPS vom Kernel latency_dst_asimd_fmla_sp sind etwas mehr als 2 Mal so hoch wie bei dem Kernel latency_src_asimd_fmla_sp (1897.64 GFLOPS und 922.957 GFLOPS). Damit liegen die GFLOPS aber immer noch deutlich unter den GFLOPS vom Kernel peak_asimd_fmla_sp (7499.27 GFLOPS), wo wir 30 unabhägige SP ASIMD-FMA Operationen haben.
 
 Bei dem zweiten Kernel der SP Multiplikation ("latency_dst_asimd_fmul_sp") werden 3706.79 GFLOPS erreicht. Das sind deutlich mehr als die beim Kernel "latency_src_asimd_fmul_sp" aus Aufgabe 4, wo gerade einmal 616.624 GFLOPS erreicht werden.
 
