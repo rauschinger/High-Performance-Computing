@@ -92,3 +92,21 @@ Hier hängen die Operationen immer von der übernächsten Operation ab und nicht
 
 6. Now introduce a data dependence only by means of the destination register, i.e., repeat the line fmla v0.4s, v30.4s, v31.4s for FMA ops. What do you observe? What happens if you use fmul v0.4s, v30.4s, v31.4s? Name the kernels latency_dst_asimd_fmla_sp.s and latency_dst_asimd_fmul_sp.s respectively.
 
+Die Benchmarks der beiden erstellten Kernels ergeben folgende Werte:
+
+latency_dst_asimd_fmla_sp  
+ threads: 160  
+  repetitions: 474319151  
+  duration: 9.59818 seconds  
+  GFLOPS: 1897.64  
+
+latency_dst_asimd_fmul_sp  
+ threads: 160  
+  repetitions: 920067735  
+  duration: 4.76566 seconds  
+  GFLOPS: 3706.79  
+
+Die GFLOPS vom Kernel latency_dst_asimd_fmla_sp sind etwas mehr als 2 Mal so hoch wie bei dem Kernel latency_src_asimd_fmla_sp (1897.64 GFLOPS und 922.957 GFLOPS). Damit liegen die GFLOPS aber immer noch deutlich unter den GFLOPS vom Kernel peak_asimd_fmla_sp, wo wir 30 unabhägige SP ASIMD-FMA Operationen haben.
+
+Bei dem zweiten Kernel der SP Multiplikation ("latency_dst_asimd_fmul_sp") werden 3706.79 GFLOPS erreicht. Das sind deutlich mehr als die beim Kernel "latency_src_asimd_fmul_sp" aus Aufgabe 4, wo gerade einmal 616.624 GFLOPS erreicht werden.
+
