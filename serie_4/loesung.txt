@@ -1,0 +1,8 @@
+Serie 4
+
+How many floating point operations are done per kernel call?
+
+Die Ergebnismatrix hat M*N Elemente. Pro Element muss k Mal eine Multiplikation durchgeführt werden und alle Ergebnisse aus der Multiplikation müssen aufaddiert werden. Daher ergeben sich 2K Operationen.
+
+--> #floating point operations done per kernel call = M*N*2*K
+

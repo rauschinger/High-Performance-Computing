@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsmall_gemms_lib.a  CMakeFiles/small_gemms_lib.dir/src/gemm_ref.cpp.o
+/usr/bin/ranlib libsmall_gemms_lib.a

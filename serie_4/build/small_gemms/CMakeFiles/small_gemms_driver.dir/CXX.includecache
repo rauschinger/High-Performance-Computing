@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../small_gemms/include/gemm_ref.h
+
+/home/hk-project-test-scalfsu/hgf_dgx3529/hpc/serie_4/small_gemms/src/driver_small_gemms.cpp
+cstdint
+-
+cmath
+-
+chrono
+-
+tuple
+-
+omp.h
+-
+iostream
+-
+gemm_ref.h
+/home/hk-project-test-scalfsu/hgf_dgx3529/hpc/serie_4/small_gemms/src/gemm_ref.h
+
