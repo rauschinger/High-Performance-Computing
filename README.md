@@ -1,1 +1,1 @@
-# Code für den High Performance Computing Kurs
+Code für den High Performance Computing Kurs
